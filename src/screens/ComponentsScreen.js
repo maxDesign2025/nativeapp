@@ -4,7 +4,7 @@ import {Text, StyleSheet} from 'react-native';
 
 const ComponentsScreen = () => {
 
-return <Text style={styles.textStyle}>This  is component Screen</Text>;
+return <Text style={styles.textStyle}>This  is initial app  Screen</Text>;
 
 
 };
